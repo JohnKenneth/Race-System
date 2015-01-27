@@ -19,7 +19,7 @@
             <ColumnDefinition Width="30*"/>
         </Grid.ColumnDefinitions>
         <GroupBox Header="RFID List" Margin="10,10,12,0">
-            <ListView x:Name="RFID_list" SelectionChanged="RFIDList_SelectionChanged" Margin="0,10,0,-12">
+            <ListView x:Name="RFID_list" SelectionChanged="RFIDList_SelectionChanged" Margin="0,10,0,0">
                 <ListView.View>
                     <GridView>
                         <GridViewColumn Header="RFID No" Width="170" DisplayMemberBinding="{Binding Rfid_No}" />

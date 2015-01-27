@@ -14,8 +14,8 @@
         <Grid.RowDefinitions>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <GroupBox x:Name="GBDriverList" Header="Racer List" Margin="0,10,2,15">
-            <ListView x:Name="Driver_List" SelectionChanged="DriverList_SelectionChanged" Margin="2,10,-2,-11">
+        <GroupBox x:Name="GBDriverList" Header="Racer List" Margin="0,10,2,10">
+            <ListView x:Name="Driver_List" SelectionChanged="DriverList_SelectionChanged" Margin="2,10,-2,4">
                 <ListView.View>
                     <GridView>
                         <GridViewColumn Header="Name" Width="170" DisplayMemberBinding="{Binding Name}" />
