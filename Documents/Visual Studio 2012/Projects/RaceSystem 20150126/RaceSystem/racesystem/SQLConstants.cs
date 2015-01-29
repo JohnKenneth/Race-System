@@ -33,7 +33,7 @@ namespace RaceSystem
                                                 "LEFT OUTER JOIN race_events re ON es.event_id = re.event_id " +
                                                 "LEFT OUTER JOIN event_class ec ON ec.class_id = es.class_id " +
                                                 "where es.session_id = @session_id";
-        public static string INSERT_RACER_LAP_INFO = "insert into lap_records values(null, @session_id,@lap_number, @rfid_no, @lap_time, @best_lap_time, @position,@lap_speed,@best_lap_speed)";
+        public static string INSERT_RACER_LAP_INFO = "insert into lap_records values(null, @session_id,@lap_number, @rfid_no, @total_time, @lap_time, @best_lap_time, @position,@lap_speed,@best_lap_speed)";
         /* END Racing Window */
 
         /*START Manage Events  */

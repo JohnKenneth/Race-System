@@ -20,6 +20,8 @@ namespace RaceSystem
 
         public int LapNumber { get; set; }
 
+        public double TotalTime { get; set; }
+
         public double LapTime { get; set; }
 
         public double BestLapTime { get; set; }

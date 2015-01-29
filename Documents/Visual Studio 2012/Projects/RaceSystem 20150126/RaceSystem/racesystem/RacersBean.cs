@@ -15,6 +15,7 @@ namespace RaceSystem
         private int lap_number;
         private DateTime time_of_lap;
         private double lap_time;
+        private double total_time;
         private double best_lap_time;
         private int position;
         private double lap_speed;
@@ -94,6 +95,17 @@ namespace RaceSystem
             {
                 lap_time = value;
                 NotifyPropertyChanged("lap_time");
+            }
+        }
+
+        //[Mapping(ColumnName = "total_time")]
+        public double totalTime
+        {
+            get { return total_time; }
+            set
+            {
+                total_time = value;
+                NotifyPropertyChanged("total_time");
             }
         }
 

@@ -39,6 +39,7 @@ namespace RaceSystem
                         bestLapSpeed = 0.00,
                         lapNumber = 0,
                         lapSpeed = 0.00,
+                        totalTime = 0.00,
                         positionNumber = 0
                     });
                     //racers.Add(MapToClass<RacersBean>(dataReader));
@@ -110,6 +111,7 @@ namespace RaceSystem
             comm.Parameters.AddWithValue("@lap_number", lapRecord.lapNumber);
             comm.Parameters.AddWithValue("@rfid_no", lapRecord.rfidNo);
             comm.Parameters.AddWithValue("@lap_time", lapRecord.lapTime);
+            comm.Parameters.AddWithValue("@total_time", lapRecord.totalTime);
             comm.Parameters.AddWithValue("@best_lap_time", lapRecord.bestLapTime);
             comm.Parameters.AddWithValue("@position", lapRecord.positionNumber);
             comm.Parameters.AddWithValue("@lap_speed", lapRecord.lapSpeed);

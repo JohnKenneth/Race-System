@@ -30,7 +30,7 @@ namespace RaceSystem
         public const string readerHostname = "ipj-rev-r420-usa1m1";//"192.168.1.134";
         int classId = 0;
         int sessionId = 0;
-        private string currentTag = "";
+        private static string currentTag = "";
         private int distance = 0;
         private int lapNumber = 0;
         private Dictionary<String, Object> raceDesc = null;
@@ -40,7 +40,7 @@ namespace RaceSystem
         DispatcherTimer _timer;
         TimeSpan _time;
 
-        private AsyncObservableCollection<RacersBean> RacerList = new AsyncObservableCollection<RacersBean>();
+        private static AsyncObservableCollection<RacersBean> RacerList = new AsyncObservableCollection<RacersBean>();
         /*public ObservableCollection<RacersBean> RacerList
         {
             get { return _racerList; }
@@ -85,7 +85,10 @@ namespace RaceSystem
             this.sessionId = sessionId;
             RacerList = con.selectRacers(classId, Convert.ToInt32(sessionId));
             tblRacingInfo.ItemsSource = RacerList;
+
             BindingOperations.EnableCollectionSynchronization(RacerList, new object());
+            BindingOperations.EnableCollectionSynchronization(tblRacingInfo.ItemsSource, new object());
+
             raceDesc = con.getRaceDescription(sessionId);
             lblEventName.Content = raceDesc["EventName"];
             lblClassName.Content = raceDesc["ClassName"];
@@ -208,74 +211,108 @@ namespace RaceSystem
         private void recordLap(String tag)
         {
             tag = tag.Replace(" ", String.Empty);
-            if (currentTag == tag || !isStarted)
+            if (!isStarted)// || currentTag == tag)
                 return;
-            Console.WriteLine(tag);
-            currentTag = tag;
-            // get Racer
-            var racerChecker = RacerList.Where(a => a.rfidTag == tag);
+            //Console.WriteLine(tag);
 
-            if (racerChecker.Count() == 0)
-                return;
-
-            RacersBean racer = racerChecker.Last();
-
-            int prevIndex = RacerList.IndexOf(racer);
-            
-            // set Lap Number
-            racer.lapNumber = racer.lapNumber + 1;
-            if (racer.lapNumber > this.lapNumber)
-                return;
-
-            RacerList.RemoveAt(prevIndex);
-
-            // set Position
-            var greatEqualLap = RacerList.Where(a => a.lapNumber >= racer.lapNumber);
-            int racerPosition = 0;
-            if (greatEqualLap.Count() != 0)
+            var task = Task.Factory.StartNew(() =>
             {
-                //var greatEqualTime = greatEqualLap.Where(a => Convert.ToDateTime(a.lapTime) >= Convert.ToDateTime(racer.lapTime));
-                //Racers racerFront = racerFronts.ElementAt();
-                //System.Windows.Forms.MessageBox.Show("" + RacerList.IndexOf(greatEqualTime.Last()));
-                //racerPosition = RacerList.IndexOf(greatEqualTime.Last()) + 1;
-                //System.Windows.Forms.MessageBox.Show("" + racerPosition);
-                //if (racerPosition < 0)
-                    racerPosition = RacerList.IndexOf(greatEqualLap.Last()) + 1;
-            }
-            racer.positionNumber = racerPosition+1;
-            foreach (RacersBean inBackRacer in RacerList.Where(a => (a.positionNumber > racer.positionNumber - 1) && (a.positionNumber <= prevIndex + 1)))
-            {
-                inBackRacer.positionNumber = inBackRacer.positionNumber + 1;
-                //System.Windows.Forms.MessageBox.Show("" + inBackRacer.racerName + " " +inBackRacer.positionNumber);
-            }
+                try
+                {
+                    // get Racer
+                    var racerChecker = RacerList.Where(a => a.rfidTag == tag);
 
-            // set Lap Time
-            racer.lapTime = Math.Round(DateTime.Now.Subtract(racer.timeOfLap).TotalSeconds, 2);
+                    if (racerChecker.Count() == 0)
+                        return;
 
-            // set Best Lap Time
-            racer.bestLapTime= racer.bestLapTime > racer.lapTime || racer.bestLapTime == 0 ? racer.lapTime : racer.bestLapTime;
-            
-            // set Lap Speed
-            racer.lapSpeed = Math.Round(this.distance / racer.lapTime, 2);
+                    RacersBean racer = racerChecker.Last();
 
-            // set Best Lap Speed
-            racer.bestLapSpeed = racer.bestLapSpeed < racer.lapSpeed || racer.bestLapSpeed == 0 ? racer.lapSpeed : racer.bestLapSpeed;
-            
-            // set Time of Lap
-            racer.timeOfLap = DateTime.Now;
+                    int prevIndex = RacerList.IndexOf(racer);
 
-            RacerList.Insert(racerPosition, racer);
-            con.recordLapDetails(racer);
+                    // Lap Number Validation
+                    if (racer.lapNumber + 1 > this.lapNumber)
+                        return;
 
-            if (racer.positionNumber == RacerList.Count() && racer.lapNumber == this.lapNumber)
-            {
-                MessageBox.Show("RACE FINISHED", "Race Information", MessageBoxButton.OK, MessageBoxImage.Asterisk);
-                //lblStatus.Content = "Finished";
-                //btnStartRace.IsEnabled = true;
-                Action action = () => btnStartRace.IsEnabled = true;
-                Dispatcher.Invoke(action);
-            }
-            //this.tblRacingInfo.Items.Refresh();
+                    double laptTime = Math.Round(DateTime.Now.Subtract(racer.timeOfLap).TotalSeconds, 2);
+                    //System.Windows.Forms.MessageBox.Show("Lap Time: " + racer.racerName + "  " + racer.timeOfLap + "  " + DateTime.Now + "  " + racer.lapTime + "  " + 1 + "  " + DateTime.Now.Subtract(racer.timeOfLap).TotalSeconds);
+                    // Lap Time Validation
+                    if (laptTime < 5)
+                        return;
+
+                    //System.Windows.Forms.MessageBox.Show("1 " + racer.racerName);
+                    RacerList.RemoveAt(prevIndex);
+                    //System.Windows.Forms.MessageBox.Show("2 " + racer.racerName);
+
+                    // set Lap Number
+                    racer.lapNumber = racer.lapNumber + 1;
+
+                    // set Total Lap Time
+                    racer.totalTime = racer.totalTime + laptTime;
+
+                    // set Lap Time
+                    racer.lapTime = laptTime;
+                    
+                    // set Time of Lap
+                    racer.timeOfLap = DateTime.Now;
+
+                    // set Best Lap Time
+                    racer.bestLapTime = racer.bestLapTime > racer.lapTime || racer.bestLapTime == 0 ? racer.lapTime : racer.bestLapTime;
+
+
+
+                    // set Lap Speed
+                    racer.lapSpeed = Math.Round(this.distance / racer.lapTime, 2);
+
+                    // set Best Lap Speed
+                    racer.bestLapSpeed = racer.bestLapSpeed < racer.lapSpeed || racer.bestLapSpeed == 0 ? racer.lapSpeed : racer.bestLapSpeed;
+
+
+                    // set Position
+                    var greatEqualLap = RacerList.Where(a => a.lapNumber >= racer.lapNumber);
+                    int racerPosition = 0;
+                    if (greatEqualLap.Count() != 0)
+                    {
+                        //var greatEqualTime = greatEqualLap.Where(a => Convert.ToDateTime(a.lapTime) >= Convert.ToDateTime(racer.lapTime));
+                        //Racers racerFront = racerFronts.ElementAt();
+                        //System.Windows.Forms.MessageBox.Show("" + RacerList.IndexOf(greatEqualTime.Last()));
+                        //racerPosition = RacerList.IndexOf(greatEqualTime.Last()) + 1;
+                        //System.Windows.Forms.MessageBox.Show("" + racerPosition);
+                        //if (racerPosition < 0)
+                        racerPosition = RacerList.IndexOf(greatEqualLap.Last()) + 1;
+                    }
+                    racer.positionNumber = racerPosition + 1;
+                    foreach (RacersBean inBackRacer in RacerList.Where(a => (a.positionNumber > racer.positionNumber - 1) && (a.positionNumber <= prevIndex + 1)))
+                    {
+                        //inBackRacer.positionNumber = inBackRacer.positionNumber + 1;
+                        //System.Windows.Forms.MessageBox.Show("" + inBackRacer.racerName + " " +inBackRacer.positionNumber);
+                        RacerList.ElementAt(RacerList.IndexOf(inBackRacer)).positionNumber = inBackRacer.positionNumber + 1;
+                    }
+
+                    RacerList.Insert(racerPosition, racer);
+                    con.recordLapDetails(racer);
+
+                    if (racer.positionNumber == RacerList.Count() && racer.lapNumber == this.lapNumber)
+                    {
+                        MessageBox.Show("RACE FINISHED", "Race Information", MessageBoxButton.OK, MessageBoxImage.Asterisk);
+                        //lblStatus.Content = "Finished";
+                        //btnStartRace.IsEnabled = true;
+                        Action action = () =>
+                            {
+                                btnStartRace.IsEnabled = true;
+                                lblStatus.Content = "Finished";
+                            };
+                        Dispatcher.Invoke(action);
+                    }
+                    currentTag = tag;
+                    Action action2 = () => this.tblRacingInfo.Items.Refresh();
+                    Dispatcher.Invoke(action2);
+                }
+                catch (InvalidOperationException e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+            });
+            task.Wait();
         }
 
         private void startRace(object sender, RoutedEventArgs eArg)
@@ -284,7 +321,7 @@ namespace RaceSystem
             {
                 DateTime startTime = DateTime.Now;
 
-                _time = TimeSpan.FromMinutes(Convert.ToDouble(lblTime.Content));
+                _time = TimeSpan.FromMinutes(Convert.ToDouble(raceDesc["Time"]));
 
                 _timer = new DispatcherTimer(new TimeSpan(0, 0, 1), DispatcherPriority.Normal, delegate
                 {
@@ -353,14 +390,18 @@ namespace RaceSystem
         {
             try
             {
+                MessageBoxResult res = MessageBox.Show("Are You sure You want Reset the Race", "Race Information", MessageBoxButton.YesNo, MessageBoxImage.Warning);
+                if (!res.ToString().Equals("Yes"))
+                    return;
+
                 // Stop reading.
                 reader.Stop();
                 
                 con.resetRace(Convert.ToString(sessionId));
-                tblRacingInfo.ItemsSource = null;
                 RacerList = con.selectRacers(classId, sessionId);
                 tblRacingInfo.ItemsSource = RacerList;
                 lblTime.Content = Convert.ToInt32(raceDesc["Time"]);
+                currentTag = "";
                 //this.tblRacingInfo.Items.Refresh();
                 _timer.Stop();
                 isStarted = false;

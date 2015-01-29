@@ -178,12 +178,12 @@ namespace RaceSystem
                 // You can also set them to specific values like this...
                 settings.Antennas.GetAntenna(1).TxPowerInDbm = 20;
                 settings.Antennas.GetAntenna(1).RxSensitivityInDbm = -70;
-                /*
+                
                 // Enable antenna #2.
                 settings.Antennas.GetAntenna(2).IsEnabled = true;
                 // Set the Transmit Power and 
                 // Receive Sensitivity to the maximum.
-                settings.Antennas.GetAntenna(2).MaxTransmitPower = true;
+                settings.Antennas.GetAntenna(2).MaxTxPower = true;
                 settings.Antennas.GetAntenna(2).MaxRxSensitivity = true;
                 // You can also set them to specific values like this...
                 settings.Antennas.GetAntenna(2).TxPowerInDbm = 20;
@@ -193,7 +193,7 @@ namespace RaceSystem
                 settings.Antennas.GetAntenna(3).IsEnabled = true;
                 // Set the Transmit Power and 
                 // Receive Sensitivity to the maximum.
-                settings.Antennas.GetAntenna(3).MaxTransmitPower = true;
+                settings.Antennas.GetAntenna(3).MaxTxPower = true;
                 settings.Antennas.GetAntenna(3).MaxRxSensitivity = true;
                 // You can also set them to specific values like this...
                 settings.Antennas.GetAntenna(3).TxPowerInDbm = 20;
@@ -203,12 +203,12 @@ namespace RaceSystem
                 settings.Antennas.GetAntenna(4).IsEnabled = true;
                 // Set the Transmit Power and 
                 // Receive Sensitivity to the maximum.
-                settings.Antennas.GetAntenna(4).MaxTransmitPower = true;
+                settings.Antennas.GetAntenna(4).MaxTxPower = true;
                 settings.Antennas.GetAntenna(4).MaxRxSensitivity = true;
                 // You can also set them to specific values like this...
                 settings.Antennas.GetAntenna(4).TxPowerInDbm = 20;
                 settings.Antennas.GetAntenna(4).RxSensitivityInDbm = -70;
-                */
+                
 
                 // Apply the newly modified settings.
                 reader.ApplySettings(settings);

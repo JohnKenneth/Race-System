@@ -39,6 +39,7 @@ namespace RaceSystem
 
         private void RaiseCollectionChanged(object param)
         {
+            Console.WriteLine(param);
             // We are in the creator thread, call the base implementation directly
             base.OnCollectionChanged((NotifyCollectionChangedEventArgs)param);
         }

@@ -35,6 +35,7 @@ namespace RaceSystem
                     racingReport.RFIDTag = (string)reader["rfid_tag_no"];
                     racingReport.Position = (int)reader["position"];
                     racingReport.LapNumber = (int)reader["lap_number"];
+                    racingReport.TotalTime = (float)reader["total_time"];
                     racingReport.LapTime = (float)reader["lap_time"];
                     racingReport.BestLapTime = (float)reader["best_lap_time"];
                     racingReport.LapSpeed = (float)reader["lap_speed"];
@@ -73,6 +74,7 @@ namespace RaceSystem
                     racingReport.Position = (int)reader["position"];
                     racingReport.RacerName = (string)reader["name"];
                     racingReport.LapNumber = (int)reader["lap_number"];
+                    racingReport.TotalTime = (float)reader["total_time"];
                     racingReport.LapTime = (float)reader["lap_time"];
                     racingReport.BestLapTime = (float)reader["best_lap_time"];
                     racingReport.LapSpeed = (float)reader["lap_speed"];
