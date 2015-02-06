@@ -1,0 +1,981 @@
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\pnlHome.baml
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\pnlHome.g.cs
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+c:\users\jklorca11\documents\visual studio 2012\Projects\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\bin\Debug\WpfControlLibrary1.dll
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\Cent\Downloads\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+F:\RaceSystem\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+F:\RaceSystem\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+F:\RaceSystem\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+F:\RaceSystem\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem refactor\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\App.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141221\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141226\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141227\RaceSystem 20141226\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\App.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20141231\RaceSystem 20141231\RaceSystem\obj\Debug\RaceSystem.pdb
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150109\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\bin\Debug\MySql.Data.dll
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\App.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\allan\Desktop\RaceSystem 20150110\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150111\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\App.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RACE01132014\RaceSystem\bin\Debug\MahApps.Metro.xml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+E:\SIDE PROJECTS\Verso's project\Freelance\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\MySql.Data.dll
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\aspire\Desktop\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\Race System 20150122\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\jumpEr\Documents\Visual Studio 2012\Projects\RaceSystem 20150125\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\MySql.Data.dll
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\aspire\Desktop\RaceSystem 20150125T0504PM\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MySql.Data.dll
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\allan\Desktop\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MySql.Data.dll
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\allan\Desktop\racesystemfinal\RaceSystem 20150126\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150202\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe.config
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\RaceSystem.pdb
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\Impinj.OctaneSdk.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\LLRP.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\LLRP.Impinj.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\MercuryAPI.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\bin\Debug\MahApps.Metro.xml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csprojResolveAssemblyReference.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\LogInWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlDriver.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlHome.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlReports.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RacingWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\AddDriverToEventForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\LogInWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\MainWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlAddDriverToEvent.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlDriver.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlHome.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlManageRfidNo.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlMngEvents.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\PnlReports.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceClassForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSessionForm.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RacingWindow.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\App.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem_Content.g.cs
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem_MarkupCompile.lref
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\MainWindow.baml
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem.g.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem.Properties.Resources.resources
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem.csproj.GenerateResource.Cache
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem.exe
+C:\Users\JKLorca11\Documents\Visual Studio 2012\Projects\RaceSystem 20150204\RaceSystem\RaceSystem\obj\Debug\RaceSystem.pdb
