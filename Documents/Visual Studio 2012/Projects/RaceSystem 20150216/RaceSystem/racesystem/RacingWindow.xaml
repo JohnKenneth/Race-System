@@ -1,0 +1,75 @@
+﻿<Controls:MetroWindow x:Class="RaceSystem.RacingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Racing Window" Height="420.912" Width="857.457" Closing="RaceWindow_Closing" Topmost="True">
+     <Window.Resources>
+    <ResourceDictionary>
+        <ResourceDictionary.MergedDictionaries>
+            <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+            <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+            <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+            <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+            <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+        </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="37"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="111*"/>
+            <ColumnDefinition Width="344*"/>
+            <ColumnDefinition Width="289*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Event Name: " Grid.Column="1" Margin="15,10,0,0" VerticalAlignment="Top" Height="18" FontWeight="Bold" HorizontalAlignment="Left" Width="95" Padding="0,1" Grid.IsSharedSizeScope="True"/>
+        <Label Content="Class Name:" Grid.Column="1" Margin="15,30,0,0" VerticalAlignment="Top" Height="18" FontWeight="Bold" HorizontalAlignment="Left" Width="95" Padding="0,1"/>
+        <Label Content="Session Name:" Grid.Column="1" Margin="15,50,0,0" VerticalAlignment="Top" Height="18" FontWeight="Bold" HorizontalAlignment="Left" Width="95" Padding="0,1"/>
+        <ScrollViewer Margin="15,70,15,5" Grid.ColumnSpan="4" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto">
+            <DataGrid x:Name="tblRacingInfo"  AutoGenerateColumns="False" IsEnabled="True" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" RowDetailsVisibilityMode="Visible" CanUserAddRows="False" Grid.Column="1" HeadersVisibility="Column" Focusable="False" IsHitTestVisible="False">
+                <DataGrid.CellStyle>
+                    <Style TargetType="DataGridCell">
+                        <Setter Property="Padding" Value="15,0,0,0"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type DataGridCell}">
+                                    <Border Padding="{TemplateBinding Padding}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" SnapsToDevicePixels="True">
+                                        <ContentPresenter SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </DataGrid.CellStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn  Header="Pos" Binding="{Binding positionNumber}" Width="40"/>
+                    <DataGridTextColumn Header="Racer" Binding="{Binding racerName}" Width="*"/>
+                    <DataGridTextColumn Header="Lap" Binding="{Binding lapNumber}" Width="35"/>
+                    <DataGridTextColumn Header="Lap Time(s)" Binding="{Binding lapTime}" Width="90"/>
+                    <DataGridTextColumn Header="Best Lap Time(s)" Binding="{Binding bestLapTime}" Width="110"/>
+                    <DataGridTextColumn Header="Lap Speed(m/s)" Binding="{Binding lapSpeed}" Width="110"/>
+                    <DataGridTextColumn Header="Best Lap Speed(m/s)" Binding="{Binding bestLapSpeed}" Width="140"/>
+                    <DataGridTextColumn Header="Total Time(s)" Binding="{Binding totalTime}" Width="100"/>
+                </DataGrid.Columns>
+            </DataGrid>
+          </ScrollViewer>
+        <Button x:Name="btnStartRace" Content="Start Race" Grid.Column="3" Margin="0,5,15,0" Height="22" VerticalAlignment="Top" Click="startRace" Grid.Row="1" HorizontalAlignment="Right" Width="86"/>
+        <Label x:Name="lblEventName" Content="Label" Grid.Column="2" Margin="0,10,10,0" VerticalAlignment="Top" Height="18" Padding="0,1"/>
+        <Label x:Name="lblClassName" Content="Label" Grid.Column="2" Margin="0,30,10,0" VerticalAlignment="Top" Height="18" Padding="0,1"/>
+        <Label x:Name="lblSessionName" Content="Label" Grid.Column="2" Margin="0,50,10,0" VerticalAlignment="Top" Height="18" Padding="0,1"/>
+        <Button x:Name="btnReset" Content="Reset" Grid.Column="3" Margin="0,5,120,0" Height="22" VerticalAlignment="Top" Click="resetRace" Grid.Row="1" HorizontalAlignment="Right" Width="86"/>
+        <Button Content="1" Grid.Column="3" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" Visibility="Hidden" Height="22" />
+        <Button Content="2" Grid.Column="3" HorizontalAlignment="Left" Margin="86,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2" Visibility="Hidden" Height="22"/>
+        <Button Content="3" Grid.Column="3" HorizontalAlignment="Left" Margin="180,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3" Visibility="Hidden" Height="22"/>
+        <Label x:Name="lblStatus" Content="Stand By" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="18" Width="95" Padding="0,1" Grid.Row="1" Background="White" Foreground="#FFF50000" Grid.ColumnSpan="2" Margin="58,3,0,0"/>
+        <Label Content="Status: " Grid.Column="1" HorizontalAlignment="Left" Margin="15,3,0,0" VerticalAlignment="Top" Height="18" Width="38" Padding="0,1" Grid.Row="1" FontWeight="Bold"/>
+        <Label Content="Time:" Grid.Column="3" Margin="8,10,0,0" VerticalAlignment="Top" Height="18" FontWeight="Bold" HorizontalAlignment="Left" Width="41" Padding="0,1" Grid.IsSharedSizeScope="True"/>
+        <Label x:Name="lblTime" Content="Label" Grid.Column="3" Margin="54,10,0,0" VerticalAlignment="Top" Height="18" Padding="0,1" HorizontalAlignment="Left" Width="158"/>
+        <Label Content="Lap:" Grid.Column="3" Margin="7.786,30,0,0" VerticalAlignment="Top" Height="18" FontWeight="Bold" HorizontalAlignment="Left" Width="41" Padding="0,1" Grid.IsSharedSizeScope="True"/>
+        <Label x:Name="lblLap" Content="Label" Grid.Column="3" Margin="53.786,30,0,0" VerticalAlignment="Top" Height="18" Padding="0,1" HorizontalAlignment="Left" Width="158"/>
+
+    </Grid>
+</Controls:MetroWindow>
